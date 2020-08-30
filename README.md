@@ -7,4 +7,4 @@
 ## CNN
 #### Confusion Matrix
 
-![Confusion_matrix](TrashCNN/Result/MobileCM.jpg)
+![Confusion_matrix](TrashCNN/Result/MobileCM.JPG)
