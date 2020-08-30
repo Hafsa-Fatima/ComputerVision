@@ -15,7 +15,11 @@ FinalResNet.ipynb - CNN using ResNet Model <br />
 
 ![vggCM](Result/VGGCM.JPG)
 
-![MobileNetCM](Result/MobileNetCM.JPG)
+### MobileNet CNN
+
+![MobileNetCM](Result/MobileCM.JPG)
+
+### ResNet CNN
 
 ![ResNetCM](Result/ResNetCM.JPG)
 
