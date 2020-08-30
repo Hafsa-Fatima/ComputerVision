@@ -1,5 +1,6 @@
-#Image Manipulation
-![q1_image](q1.png?raw=true)
+# Image Manipulation
+
+![q1_image](q1.PNG?raw=true)
 ![Q2](q2.PNG?raw=true)
 ![Q3](q3.PNG?raw=true)
 ![Q4](q4.PNG?raw=true)
